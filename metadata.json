@@ -1,0 +1,6 @@
+{
+  "name": "Wij West Dichtbij",
+  "description": "Officiële website van Wij West Dichtbij in Delft. Een laagdrempelige, warme toegangspoort tot hulp en inloopspreekuren voor geld, werk, wonen en welzijn.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
